@@ -1,4 +1,4 @@
-# DistrubBoissonChaud
+# DistrubBoissonChaud is console Application 
 To run this Consoole App please folow the setps below: 
 - Install VScode or Visual studio
 - Run your application 
