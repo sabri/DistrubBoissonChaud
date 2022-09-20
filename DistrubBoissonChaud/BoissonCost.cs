@@ -66,7 +66,7 @@ namespace DistrubBoissonChaud
                     break;
 
             }
-            return $"Le prix de recette {recette.Name} est {cost} et le prix de Vente est {costSell}";
+            return $"Le coût de recette {recette.Name} est {cost} et le prix de Vente est {costSell}";
         }
         // calculate the cost of recipe
         private static double CalculByRecette(Recette rec)
